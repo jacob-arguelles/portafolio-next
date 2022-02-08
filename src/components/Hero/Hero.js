@@ -8,7 +8,7 @@ const Hero = (props) => (
   <Section>
     <LeftSection>
       <SectionTitle>
-      Hi, Welcome to my "little" resume. 
+      Hi, Welcome to my "little" Portfolio. 
       </SectionTitle>
       <SectionText>
       It is still to little but you can contact me to talk about my abilities and make a technical test
